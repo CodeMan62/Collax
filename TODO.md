@@ -1,6 +1,6 @@
 we are taking it again from zero 
 # Comple todo for this month must be done 
-1. db setup 
+1. db setup -> done 
 2. auth google/email
 3. sidebar for notes listing 
 4. basic editor (similar to vscode)
