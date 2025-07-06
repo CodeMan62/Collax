@@ -1,0 +1,1 @@
+export * from "@collax/ui/tailwind.config";
