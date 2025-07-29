@@ -3,7 +3,7 @@ export default function Page() {
   return (
     <div>
       <h1 className="underline ">Hii</h1>
-      <Button variant="destructive"> Delte</Button>
+      <Button variant="destructive"> Delete</Button>
     </div>
   )
 }
