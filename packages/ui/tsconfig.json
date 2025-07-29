@@ -1,12 +1,6 @@
 {
   "extends": "@collax/typescript-config/react-library.json",
   "compilerOptions": {
-    "baseUrl": ".",
-    "paths": {
-      "@collax/*": [
-        "./*"
-      ]
-    },
     "outDir": "dist"
   },
   "include": [
@@ -15,5 +9,5 @@
   "exclude": [
     "node_modules",
     "dist"
-  ],
+  ]
 }
