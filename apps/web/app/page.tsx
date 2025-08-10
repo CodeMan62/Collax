@@ -1,9 +1,9 @@
 import { Button } from "@collax/ui/components/ui/button"
+import { ModeToggle } from "@collax/ui/components/theme-toggle";
 export default function Page() {
   return (
     <div>
-      <h1 className="underline ">Hii</h1>
-      <Button variant="destructive"> Delete</Button>
+      <ModeToggle />
     </div>
   )
 }
